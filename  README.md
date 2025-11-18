@@ -107,7 +107,7 @@ php artisan db:seed
 
 **admin user login**
 
-* email: admin@admin.com
+* email: admin@example.com
 * password: password
 
 **user login**
